@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 *{font-family: Cambria;
-    background-color:antiquewhite;
+background-color:antiquewhite;
 }
 
 h2{text-align: center;}
@@ -11,6 +11,10 @@ h3{color:green}
 #estilo1{text-align: center;}
 
 #estilo2{text-align: center;
+border-radius: 50%;
+width: 75%;}
+
+#estilo3{text-align: center;
 border-radius: 50%;
 width: 75%;}
 
